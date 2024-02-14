@@ -2,7 +2,7 @@
 
 Booking system for any hotel, hostel or similar acomodation. Provides tracking of check ins and checkouts, accommodation occupancy and other statistics.
 
-This is the project done in Jonas Schmedtmann's React Course and is for demonstrating some fundamental React principles.
+This project is done with help of Jonas Schmedtmann's React Course and is for demonstrating some fundamental React principles.
 
 Currently, two official plugins are available:
 
