@@ -1,6 +1,8 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Booking system for any hotel, hostel or similar acomodation. Provides tracking of check ins and checkouts, accommodation occupancy and other statistics.
+
+This is the project done in Jonas Schmedtmann's React Course and is for demonstrating some fundamental React principles.
 
 Currently, two official plugins are available:
 
