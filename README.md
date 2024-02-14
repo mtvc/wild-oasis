@@ -4,4 +4,6 @@ Booking system for any hotel, hostel or similar acomodation. Provides tracking o
 
 This project is done with help of Jonas Schmedtmann's React Course and is for demonstrating some fundamental React principles.
 
+Built with React Query and Supabase.
+
 Use <code>npm run dev</code> for starting project on your local machine.
